@@ -1,7 +1,0 @@
-C:\Users\Shang\OneDrive\Desktop\new project\random builds\calculator\calculator\bin\Debug\calculator.exe.config
-C:\Users\Shang\OneDrive\Desktop\new project\random builds\calculator\calculator\bin\Debug\calculator.exe
-C:\Users\Shang\OneDrive\Desktop\new project\random builds\calculator\calculator\bin\Debug\calculator.pdb
-C:\Users\Shang\OneDrive\Desktop\new project\random builds\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
-C:\Users\Shang\OneDrive\Desktop\new project\random builds\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
-C:\Users\Shang\OneDrive\Desktop\new project\random builds\calculator\calculator\obj\Debug\calculator.exe
-C:\Users\Shang\OneDrive\Desktop\new project\random builds\calculator\calculator\obj\Debug\calculator.pdb
