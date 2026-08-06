@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shang\\OneDrive\\Desktop\\new project\\random builds\\rock_paper_scissors\\rock_paper_scissors\\rock_paper_scissors.csproj",
+      "projectUniqueName": "C:\\Users\\Shang\\source\\repos\\Beginner-CS-Applications\\rock_paper_scissors\\rock_paper_scissors\\rock_paper_scissors.csproj",
       "projectName": "rock_paper_scissors",
-      "projectPath": "C:\\Users\\Shang\\OneDrive\\Desktop\\new project\\random builds\\rock_paper_scissors\\rock_paper_scissors\\rock_paper_scissors.csproj",
+      "projectPath": "C:\\Users\\Shang\\source\\repos\\Beginner-CS-Applications\\rock_paper_scissors\\rock_paper_scissors\\rock_paper_scissors.csproj",
       "packagesPath": "C:\\Users\\Shang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shang\\OneDrive\\Desktop\\new project\\random builds\\rock_paper_scissors\\rock_paper_scissors\\obj\\",
+      "outputPath": "C:\\Users\\Shang\\source\\repos\\Beginner-CS-Applications\\rock_paper_scissors\\rock_paper_scissors\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

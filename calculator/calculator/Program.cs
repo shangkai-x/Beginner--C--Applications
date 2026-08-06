@@ -60,6 +60,8 @@ namespace calculator
             Console.WriteLine("The  result is " + result);
             Console.WriteLine("Thank you for using the calculator program!");
             Console.ReadKey();
+
+            // test comment to test github connection
         }
     }
 }
