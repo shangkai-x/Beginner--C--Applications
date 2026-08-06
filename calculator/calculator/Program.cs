@@ -61,7 +61,7 @@ namespace calculator
             Console.WriteLine("Thank you for using the calculator program!");
             Console.ReadKey();
 
-            // test comment to test github connection
+            // test comment to test github connection!
         }
     }
 }
